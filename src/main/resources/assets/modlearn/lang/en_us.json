@@ -4,5 +4,7 @@
 
 
   "block.modlearn.mythril_block": "Mythril block",
-  "block.modlearn.mythril_ore": "Mythril ore"
+  "block.modlearn.mythril_ore": "Mythril ore",
+
+  "itemGroup.modlearn.mylearnmod": "My Learn MOD"
 }
