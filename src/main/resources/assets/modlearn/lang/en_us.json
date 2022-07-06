@@ -1,4 +1,8 @@
 {
   "item.modlearn.mythril_ingot": "Mythril ingot",
-  "item.modlearn.mythril_nugget": "Mythril nugget"
+  "item.modlearn.mythril_nugget": "Mythril nugget",
+
+
+  "block.modlearn.mythril_block": "Mythril block",
+  "block.modlearn.mythril_ore": "Mythril ore"
 }
