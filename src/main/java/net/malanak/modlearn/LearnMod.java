@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 public class LearnMod implements ModInitializer {
 	public static final String MOD_ID = "modlearn";
-	public static final Logger LOGGER = LoggerFactory.getLogger("modid");
+	public static final Logger LOGGER = LoggerFactory.getLogger("modlearn");
 
 	@Override
 	public void onInitialize() {
