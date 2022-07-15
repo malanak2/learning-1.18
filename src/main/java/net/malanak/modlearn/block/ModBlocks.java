@@ -3,6 +3,7 @@ package net.malanak.modlearn.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.malanak.modlearn.LearnMod;
+import net.malanak.modlearn.block.custom.SpeedyBlock;
 import net.malanak.modlearn.item.ModItemGroup;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
@@ -20,6 +21,9 @@ public class ModBlocks {
             );
     public static final Block MYTHRIL_ORE = registerBlock("mythril_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroup.LEARNMOD
+    );
+    public static final Block SPEEDY_BLOCK = registerBlock("speedy_block",
+            new SpeedyBlock(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroup.LEARNMOD
     );
 
 

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "modlearn:block/speedy_block_top",
+    "down": "modlearn:block/speedy_block_not_top",
+    "north": "modlearn:block/speedy_block_not_top",
+    "east": "modlearn:block/speedy_block_not_top",
+    "west": "modlearn:block/speedy_block_not_top",
+    "south": "modlearn:block/speedy_block_not_top",
+    "particles": "modlearn:block/speedy_block_not_top"
+  }
+}
